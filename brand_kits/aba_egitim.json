@@ -1,0 +1,64 @@
+
+{
+  "brand_id": "aba_egitim",
+  "brand_name": "ABA Eğitim",
+  "website": "https://abaegitim.com/",
+  "instagram": "https://www.instagram.com/abaegitim/",
+  "industry": "International Education and Academic Consulting",
+  "target_audience": [
+    "High school students",
+    "University applicants",
+    "Graduate school applicants",
+    "Parents",
+    "International exam candidates"
+  ],
+  "language": "Turkish",
+  "tone_of_voice": [
+    "Professional",
+    "Academic",
+    "Confident",
+    "Motivational",
+    "Goal-oriented"
+  ],
+  "colors": {
+    "primary": "#E15110",
+    "background": "#071A34",
+    "text": "#FFFFFF",
+    "accent_orange": "#F45B23",
+    "cream": "#FFF8EA",
+    "burgundy": "#821326",
+    "gold": "#C68A36"
+  },
+  "fonts": {
+    "heading": "Montserrat ExtraBold",
+    "body": "Montserrat Regular",
+    "editorial": "Playfair Display"
+  },
+  "logo": "assets/logos/aba_egitim.png",
+  "content_themes": [
+    "University admissions",
+    "Study abroad",
+    "SAT and AP preparation",
+    "International examinations",
+    "Academic planning",
+    "Scholarship opportunities",
+    "Student success stories"
+  ],
+  "design_guidelines": [
+    "Use dark navy backgrounds for academic posts",
+    "Use orange to highlight important words and numbers",
+    "Use large white headlines",
+    "Keep a professional and academic visual style",
+    "Place the brand logo in a visible area",
+    "Use university or education-themed visuals when appropriate"
+  ],
+  "content_rules": [
+    "Write primarily in Turkish",
+    "Use a professional and motivational tone",
+    "Explain educational processes clearly",
+    "Do not invent admission statistics or student achievements",
+    "Do not promise guaranteed university admission",
+    "Do not invent application dates or scholarship details",
+    "Include a relevant call to action"
+  ]
+}

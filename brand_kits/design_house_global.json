@@ -1,0 +1,71 @@
+
+{
+  "brand_id": "design_house_global",
+  "brand_name": "Design House Global",
+  "website": "https://www.designhouseglobal.com/",
+  "instagram": "https://www.instagram.com/designhouseglobal/",
+  "industry": "Creative Education, Art and Design",
+  "target_audience": [
+    "Art and design students",
+    "International art school applicants",
+    "Creative portfolio applicants",
+    "Architecture and design enthusiasts",
+    "Students seeking creative mentorship"
+  ],
+  "language": "English",
+  "secondary_language": "Turkish",
+  "tone_of_voice": [
+    "Creative",
+    "Professional",
+    "Confident",
+    "Editorial",
+    "Aspirational",
+    "Direct"
+  ],
+  "colors": {
+    "primary": "#8F2724",
+    "background": "#171313",
+    "text": "#FFFFFF",
+    "accent_gold": "#F8D7A1",
+    "dark_wine": "#350F19",
+    "warm_beige": "#D9C5B2"
+  },
+  "fonts": {
+    "heading": "Oswald Bold",
+    "body": "Montserrat Regular",
+    "editorial": "Playfair Display"
+  },
+  "logo": "assets/logos/design_house_global.png",
+  "content_themes": [
+    "Portfolio preparation",
+    "Creative process",
+    "Design education",
+    "Architecture and spatial design",
+    "Visual communication",
+    "Fashion design",
+    "Fine arts",
+    "Industrial design",
+    "International art school applications"
+  ],
+  "design_guidelines": [
+    "Use dark and warm backgrounds",
+    "Use large and bold white headlines",
+    "Use photography as a main visual element",
+    "Use burgundy and gold for subtle brand accents",
+    "Keep layouts minimal and editorial",
+    "Use creative studio or portfolio imagery when appropriate",
+    "Place the brand logo in a visible area",
+    "Maintain strong contrast between text and background"
+  ],
+  "content_rules": [
+    "Write primarily in English",
+    "Use Turkish when explicitly requested",
+    "Use a creative and professional tone",
+    "Keep headlines short and impactful",
+    "Encourage originality and experimentation",
+    "Highlight creative thinking and portfolio development",
+    "Do not invent admission statistics or application deadlines",
+    "Do not promise guaranteed art school admission",
+    "Include a relevant call to action"
+  ]
+}

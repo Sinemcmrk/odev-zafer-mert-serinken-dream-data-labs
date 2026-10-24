@@ -1,0 +1,73 @@
+
+{
+  "brand_id": "e4i",
+  "brand_name": "Education for Innovation",
+  "organization_name": "İnovasyon için Eğitim Vakfı",
+  "website": "https://www.educationforinnovation.org/",
+  "instagram": "https://www.instagram.com/e4i_vakfi/",
+  "industry": "Education, Innovation, Technology and Entrepreneurship",
+  "target_audience": [
+    "High school students",
+    "University students",
+    "Young innovators",
+    "Aspiring entrepreneurs",
+    "Technology enthusiasts"
+  ],
+  "language": "English",
+  "secondary_language": "Turkish",
+  "tone_of_voice": [
+    "Innovative",
+    "Inspiring",
+    "Energetic",
+    "Educational",
+    "Future-focused",
+    "Collaborative"
+  ],
+  "colors": {
+    "primary": "#62B347",
+    "background": "#061332",
+    "text": "#FFFFFF",
+    "accent_neon_green": "#A6FF20",
+    "accent_purple": "#833DE3",
+    "accent_orange": "#FF681F",
+    "accent_cyan": "#25BDF0",
+    "accent_teal": "#17AF80"
+  },
+  "fonts": {
+    "heading": "Montserrat ExtraBold",
+    "body": "Montserrat Regular",
+    "labels": "Montserrat SemiBold"
+  },
+  "logo": "assets/logos/e4i.png",
+  "content_themes": [
+    "Artificial intelligence",
+    "Responsible AI and AI ethics",
+    "Hackathons",
+    "Entrepreneurship",
+    "Future careers",
+    "Bioinformatics",
+    "Global opportunities",
+    "Digital literacy",
+    "Innovation and collaboration"
+  ],
+  "design_guidelines": [
+    "Use dark navy backgrounds for technology posts",
+    "Use neon green for important highlights",
+    "Use purple, orange or cyan as secondary accent colors",
+    "Use large modern sans-serif headlines",
+    "Use technology-inspired visuals when appropriate",
+    "Keep the multicolor brand logo unchanged",
+    "Use a white logo area when necessary for contrast",
+    "Keep layouts readable and energetic"
+  ],
+  "content_rules": [
+    "Write primarily in English",
+    "Use Turkish when explicitly requested",
+    "Use an inspiring and educational tone",
+    "Explain technology concepts clearly",
+    "Encourage learning, creativity and collaboration",
+    "Avoid unsupported technology claims",
+    "Do not invent event dates, prizes or application requirements",
+    "Include a relevant call to action"
+  ]
+}

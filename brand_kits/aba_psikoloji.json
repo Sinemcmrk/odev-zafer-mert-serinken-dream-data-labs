@@ -1,0 +1,61 @@
+
+{
+  "brand_id": "aba_psikoloji",
+  "brand_name": "ABA Psikoloji",
+  "website": "https://abapsikoloji.com/",
+  "instagram": "https://www.instagram.com/abapsikoloji/",
+  "industry": "Psychology and Counseling",
+  "target_audience": [
+    "Students",
+    "Parents",
+    "Young adults",
+    "Families"
+  ],
+  "language": "Turkish",
+  "tone_of_voice": [
+    "Professional",
+    "Empathetic",
+    "Informative",
+    "Supportive",
+    "Encouraging"
+  ],
+  "colors": {
+    "primary": "#E58F1F",
+    "background": "#FFFAEE",
+    "text": "#181818",
+    "accent_green": "#577D66",
+    "accent_burgundy": "#982848",
+    "beige": "#F6DFC5"
+  },
+  "fonts": {
+    "heading": "Montserrat Bold",
+    "body": "Montserrat Regular",
+    "editorial": "Playfair Display"
+  },
+  "logo": "assets/logos/aba_psikoloji.png",
+  "content_themes": [
+    "Exam anxiety",
+    "Student psychology",
+    "Parenting",
+    "Mindfulness",
+    "Personal development",
+    "Academic and career guidance"
+  ],
+  "design_guidelines": [
+    "Use warm cream backgrounds",
+    "Use orange for important highlights",
+    "Use large and readable headlines",
+    "Use rounded category labels",
+    "Place the logo in a visible area",
+    "Keep layouts clean and professional"
+  ],
+  "content_rules": [
+    "Write in Turkish",
+    "Use a professional and empathetic tone",
+    "Explain psychological concepts clearly",
+    "Avoid unsupported psychological claims",
+    "Do not provide diagnoses",
+    "Do not promise guaranteed treatment results",
+    "Include a relevant call to action"
+  ]
+}

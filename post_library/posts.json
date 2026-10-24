@@ -1,0 +1,221 @@
+
+[
+  {
+    "id": "ABA-PSY-001",
+    "brand_id": "aba_psikoloji",
+    "topic": "Sınav kaygısı",
+    "post_type": "Educational",
+    "headline": "Sınav Kaygısıyla Başa Çıkmanın 3 Yolu",
+    "body": "Gerçekçi hedefler belirle. Çalışmanı küçük parçalara böl. Kendine dinlenmek için zaman tanı.",
+    "caption": "📚 Sınav kaygısıyla başa çıkmak için küçük adımlar atabilirsin.\n\nSınav döneminde heyecan, endişe veya baskı hissetmek birçok öğrencinin yaşadığı bir deneyimdir.\n\n1. Gerçekçi hedefler belirle. Yapabileceklerine odaklan.\n2. Çalışmanı küçük parçalara böl. Uygulanabilir bir plan oluştur.\n3. Dinlenmeye zaman ayır. Düzenli molalar ve uyku önemlidir.\n\nBir sınav sonucu bütün potansiyelini tanımlamaz.",
+    "cta": "Sen hangi yöntemi kullanıyorsun?",
+    "hashtags": [
+      "#ABAPsikoloji",
+      "#SınavKaygısı",
+      "#ÖğrenciPsikolojisi",
+      "#Motivasyon",
+      "#PsikolojikFarkındalık"
+    ],
+    "template": "Cream background, green category label, burgundy headline accent, orange footer."
+  },
+  {
+    "id": "ABA-PSY-002",
+    "brand_id": "aba_psikoloji",
+    "topic": "Küçük adımlarla ilerleme",
+    "post_type": "Motivational",
+    "headline": "Her İlerleme Büyük Olmak Zorunda Değil",
+    "body": "Bazen ilerlemek, yalnızca küçük ve sürdürülebilir bir adım atmaktır.",
+    "caption": "🌱 Her ilerleme büyük olmak zorunda değil.\n\nBazen ertelediğin bir işe başlamak, kısa bir yürüyüşe çıkmak veya kendine dinlenmek için zaman ayırmak da anlamlı bir adımdır.\n\nGelişim her zaman hızlı ilerlemez. Kendi ihtiyaçlarını ve ilerlemeni fark etmeye çalış.\n\nBugün kendin için atabileceğin küçük bir adım ne olabilir?",
+    "cta": "Bugün kendin için küçük bir adım seç.",
+    "hashtags": [
+      "#ABAPsikoloji",
+      "#KişiselGelişim",
+      "#Motivasyon",
+      "#PsikolojikFarkındalık",
+      "#İyiOluş"
+    ],
+    "template": "Light beige background, dark typography, burgundy accents, orange brand footer."
+  },
+  {
+    "id": "ABA-PSY-003",
+    "brand_id": "aba_psikoloji",
+    "topic": "Çocuklarla iletişim",
+    "post_type": "Parenting",
+    "headline": "Çocuğunuzu Dinlemek Neden Önemli?",
+    "body": "Etkin dinleme, çocuğun duygularını anlamaya ve güvenli iletişim kurmaya yardımcı olabilir.",
+    "caption": "💬 Çocuğunuzu gerçekten dinliyor musunuz?\n\nÇocuklarla sağlıklı iletişim kurmak, onların düşüncelerini ve duygularını anlamaya çalışmayı da içerir.\n\nKonuşurken dikkatinizi ona verin. Sözünü kesmeden kendini ifade etmesine fırsat tanıyın. Duygularını küçümsemek yerine anlamaya çalışın.\n\nBazen hemen çözüm önermek yerine yalnızca dinlemek önemlidir.",
+    "cta": "Sizce iyi bir dinleyici olmanın ilk adımı ne?",
+    "hashtags": [
+      "#ABAPsikoloji",
+      "#Ebeveynlik",
+      "#ÇocukPsikolojisi",
+      "#Aileİletişimi",
+      "#DuygusalGelişim"
+    ],
+    "template": "Cream background, burgundy category label, green visual accents, orange footer."
+  },
+  {
+    "id": "ABA-EDU-001",
+    "brand_id": "aba_egitim",
+    "topic": "Yurt dışı üniversite başvuruları",
+    "post_type": "Educational",
+    "headline": "Yurt Dışı Üniversite Başvurusunda 3 Önemli Adım",
+    "body": "Üniversite ve program araştırması yap. Başvuru koşullarını incele. Belgelerini ve hazırlık sürecini planla.",
+    "caption": "🎓 Yurt dışı üniversite başvurularında doğru planlama önemli bir başlangıçtır!\n\nUluslararası bir üniversitede eğitim almak istiyorsan hazırlıklarını önceden planlamak sana yardımcı olabilir.\n\n1. Üniversite ve programları araştır. Akademik hedeflerine uygun seçenekleri değerlendir.\n2. Başvuru koşullarını incele. Her üniversitenin gereksinimleri farklı olabilir.\n3. Hazırlık takvimini oluştur. Sınavlarını, referanslarını ve belgelerini planla.\n\nSen hangi ülkede üniversite okumayı hedefliyorsun?",
+    "cta": "Üniversite hedeflerini bugünden planlamaya başla.",
+    "hashtags": [
+      "#ABAEğitim",
+      "#YurtDışıEğitim",
+      "#UniversityAdmissions",
+      "#StudyAbroad",
+      "#ÜniversiteBaşvurusu"
+    ],
+    "template": "Dark navy background, white headline, orange highlights, brand logo and website footer."
+  },
+  {
+    "id": "ABA-EDU-002",
+    "brand_id": "aba_egitim",
+    "topic": "SAT hazırlığı",
+    "post_type": "Educational",
+    "headline": "SAT Hazırlığında Nereden Başlamalı?",
+    "body": "Sınav formatını öğren. Başlangıç seviyeni değerlendir. Çalışma programı oluştur ve ilerlemeni takip et.",
+    "caption": "📚 SAT hazırlığına başlamayı mı düşünüyorsun?\n\nSAT, bazı üniversitelerin başvurularda değerlendirebildiği standartlaştırılmış bir sınavdır.\n\n1. Güncel sınav formatını resmî kaynaklardan öğren.\n2. Uygun bir deneme sınavıyla başlangıç seviyeni belirle.\n3. Gerçekçi bir çalışma programı oluştur ve gelişimini takip et.\n\nHer öğrencinin hazırlık süreci farklıdır. Önemli olan kendi ihtiyaçlarına uygun bir plan oluşturmaktır.",
+    "cta": "SAT hazırlığında ilk adımını bugün at.",
+    "hashtags": [
+      "#ABAEğitim",
+      "#SAT",
+      "#SATPreparation",
+      "#StudyAbroad",
+      "#SınavHazırlığı"
+    ],
+    "template": "Warm cream background, large navy typography, orange headline accents, simple footer."
+  },
+  {
+    "id": "ABA-EDU-003",
+    "brand_id": "aba_egitim",
+    "topic": "Akademik planlama",
+    "post_type": "Motivational",
+    "headline": "Akademik Geleceğini Bugünden Planla",
+    "body": "İlgi alanlarını keşfet, güçlü yönlerini değerlendir ve uzun vadeli akademik hedeflerini belirle.",
+    "caption": "🌍 Akademik geleceğini şekillendirmek için bugünden başlayabilirsin!\n\nÜniversite ve kariyer planlaması yalnızca hangi okula başvuracağını seçmekten ibaret değildir.\n\nİlgi alanlarını tanımak, güçlü yönlerini keşfetmek ve uzun vadeli hedeflerini değerlendirmek önemlidir.\n\nHangi alanlarda öğrenmekten keyif alıyorsun? Hangi becerilerini geliştirmek istiyorsun? Nasıl bir üniversite ortamında bulunmak istersin?\n\nSen gelecekte hangi alanda eğitim almak istiyorsun?",
+    "cta": "Hedefindeki akademik yolculuğu keşfet.",
+    "hashtags": [
+      "#ABAEğitim",
+      "#AcademicPlanning",
+      "#YurtDışıEğitim",
+      "#KariyerPlanlama",
+      "#StudyAbroad"
+    ],
+    "template": "Dark navy background, white main headline, orange highlights and education-themed visual elements."
+  },
+  {
+    "id": "E4I-001",
+    "brand_id": "e4i",
+    "topic": "AI Ethics",
+    "post_type": "Educational",
+    "headline": "AI Is Powerful. But Is It Fair?",
+    "body": "Explore how fairness, privacy and transparency shape responsible artificial intelligence.",
+    "caption": "🤖 AI is powerful. But is it fair?\n\nArtificial Intelligence is transforming how we learn, work and make decisions. Understanding its ethical implications is increasingly important.\n\n🔍 Fairness: Could an AI system reinforce existing biases?\n🔐 Privacy: How is personal information collected and used?\n💡 Transparency: Can we understand how an AI system reaches its conclusions?\n\nResponsible AI is about considering how technology affects people and society.\n\nWhat do you think is the biggest ethical challenge in AI?",
+    "cta": "What does responsible AI mean to you?",
+    "hashtags": [
+      "#EducationForInnovation",
+      "#ResponsibleAI",
+      "#AIEthics",
+      "#ArtificialIntelligence",
+      "#FutureOfTechnology"
+    ],
+    "template": "Dark navy background, neon green headline highlights, purple accents and technology-themed visual elements."
+  },
+  {
+    "id": "E4I-002",
+    "brand_id": "e4i",
+    "topic": "Hackathon",
+    "post_type": "Educational",
+    "headline": "Great Ideas Start With a Problem",
+    "body": "Identify a challenge, collaborate with others, build a prototype and communicate your solution.",
+    "caption": "💡 Great ideas start with a problem!\n\nA hackathon brings people together to explore challenges, exchange ideas and build creative prototypes.\n\nFive common stages of a hackathon:\n\n1. Problem: Identify a challenge worth solving.\n2. People: Build a team with complementary skills.\n3. Plan: Define your approach and priorities.\n4. Prototype: Create a first version of your solution.\n5. Pitch: Present your idea and explain its value.\n\nCuriosity, collaboration and a willingness to learn can be just as important as technical skills.\n\nWhat problem would you solve at a hackathon?",
+    "cta": "What problem would you solve at a hackathon?",
+    "hashtags": [
+      "#EducationForInnovation",
+      "#Hackathon",
+      "#Innovation",
+      "#CreativeProblemSolving",
+      "#Teamwork",
+      "#FutureSkills"
+    ],
+    "template": "Dark navy background, orange headline accents, neon green supporting elements and innovation-themed icons."
+  },
+  {
+    "id": "E4I-003",
+    "brand_id": "e4i",
+    "topic": "Future Careers",
+    "post_type": "Educational",
+    "headline": "The Future Needs New Skills",
+    "body": "Critical thinking, creativity, digital literacy and collaboration can help students prepare for changing career opportunities.",
+    "caption": "🌍 The future needs new skills. Are you ready to keep learning?\n\nTechnology is changing industries and creating new ways of working. Developing adaptable skills can help students explore future opportunities.\n\n🧠 Critical Thinking: Evaluate information and consider different perspectives.\n🎨 Creativity: Experiment with original ideas.\n💻 Digital Literacy: Understand and use digital technologies responsibly.\n🤝 Collaboration: Communicate and work with different people.\n\nPreparing for the future is about building the ability to learn, adapt and create.\n\nWhich skill would you most like to improve this year?",
+    "cta": "Which future skill would you like to develop?",
+    "hashtags": [
+      "#EducationForInnovation",
+      "#FutureCareers",
+      "#FutureSkills",
+      "#DigitalLiteracy",
+      "#Innovation",
+      "#LifelongLearning"
+    ],
+    "template": "Dark navy background, cyan headline highlights, purple category label and technology-inspired visual elements."
+  },
+  {
+    "id": "DHG-001",
+    "brand_id": "design_house_global",
+    "topic": "Portfolio Preparation",
+    "post_type": "Educational",
+    "headline": "Your Portfolio Is More Than Your Work",
+    "body": "A thoughtful portfolio communicates your ideas, creative decisions and development process.",
+    "caption": "🎨 Your portfolio is more than a collection of finished projects.\n\nA strong creative portfolio can reveal how you think, explore ideas and develop your work.\n\n1. Process: Show sketches, experiments, research and creative decisions.\n2. Perspective: Explain your interests and personal creative approach.\n3. Progress: Demonstrate how your ideas evolved from early concepts to final outcomes.\n\nYour portfolio should communicate your individual creative direction.\n\nWhat would you like your portfolio to say about you?",
+    "cta": "Start building a portfolio that tells your story.",
+    "hashtags": [
+      "#DesignHouseGlobal",
+      "#PortfolioPreparation",
+      "#CreativePortfolio",
+      "#ArtAndDesign",
+      "#DesignEducation"
+    ],
+    "template": "Dark photographic background, large white editorial headline, subtle gold accents, minimal logo placement."
+  },
+  {
+    "id": "DHG-002",
+    "brand_id": "design_house_global",
+    "topic": "Creative Process",
+    "post_type": "Inspirational",
+    "headline": "Great Design Starts With Curiosity",
+    "body": "Ask questions, explore unexpected ideas and use experimentation to develop your creative direction.",
+    "caption": "✦ Great design starts with curiosity.\n\nEvery creative process begins somewhere: with a question, an observation or an unfinished idea.\n\nWhat happens when you approach something familiar from a different perspective?\n\nCreative development is not always a straight path. Research, experimentation and revision can lead to unexpected discoveries.\n\nGive your ideas room to evolve. Even an unfinished experiment can become the beginning of something meaningful.\n\nQuestion. Experiment. Refine.\n\nWhat question will inspire your next creative project?",
+    "cta": "What question will inspire your next project?",
+    "hashtags": [
+      "#DesignHouseGlobal",
+      "#CreativeProcess",
+      "#DesignThinking",
+      "#CreativeEducation",
+      "#ArtAndDesign"
+    ],
+    "template": "Dark burgundy background, bold white editorial typography, warm gold details and creative studio imagery."
+  },
+  {
+    "id": "DHG-003",
+    "brand_id": "design_house_global",
+    "topic": "Design Education",
+    "post_type": "Educational",
+    "headline": "Find Your Creative Direction",
+    "body": "Explore design disciplines, understand your interests and discover how different creative fields approach problem-solving.",
+    "caption": "🎓 Find your creative direction.\n\nInterested in studying art or design but still exploring which discipline feels right for you?\n\nArchitecture & Spatial Design: Explore buildings, spaces and environments.\n\nVisual Communication: Communicate ideas through typography and imagery.\n\nFashion Design: Experiment with materials, form and identity.\n\nIndustrial Design: Develop products and creative solutions.\n\nFine Arts: Explore personal expression through artistic practice.\n\nExploring different fields can help you understand what motivates you.\n\nWhich design discipline would you like to explore further?",
+    "cta": "Which design discipline would you like to explore?",
+    "hashtags": [
+      "#DesignHouseGlobal",
+      "#DesignEducation",
+      "#CreativeCareers",
+      "#PortfolioDevelopment",
+      "#ArtSchool"
+    ],
+    "template": "Dark background, oversized white typography, subtle burgundy and gold accents, art studio photography."
+  }
+]
